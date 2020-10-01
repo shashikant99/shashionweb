@@ -19,7 +19,7 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 
 
 
-## Smile Vinocha Personal Website, Open Source Contribution
+## Shashikant sharma Personal Website, Open Source Contribution
 
 ## How to Use it
 
